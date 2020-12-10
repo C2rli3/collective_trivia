@@ -1,0 +1,31 @@
+{
+  "name": "trivia_game",
+  "version": "1.0.0",
+  "description": "[![Collective_trivia](https://github.com/C2rli3/collective_trivia/files/5667581/trivia_logo.pdf)](https://github.com/C2rli3/collective_trivia)",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "google-trends-api": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2rli3/collective_trivia.git"
+  },
+  "keywords": [
+    "[trivia",
+    "game",
+    "random",
+    "google-trends-api",
+    "javascipt]"
+  ],
+  "author": "\"Carlie Guevara\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2rli3/collective_trivia/issues"
+  },
+  "homepage": "https://github.com/C2rli3/collective_trivia#readme"
+}
